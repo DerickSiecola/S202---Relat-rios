@@ -1,0 +1,30 @@
+[
+    {
+        "professor": {"nome": "Carlos"},
+        "assunto": "Matemática",
+        "alunos": [
+            {"nome": "Maria"},
+            {"nome": "João"},
+            {"nome": "Pedro"},
+            {"nome": "Ana"}
+        ]
+    },
+    {
+        "professor": {"nome": "Ana"},
+        "assunto": "História",
+        "alunos": [
+            {"nome": "Maria"},
+            {"nome": "Pedro"},
+            {"nome": "Ana"}
+        ]
+    },
+    {
+        "professor": {"nome": "Miguel"},
+        "assunto": "Física",
+        "alunos": [
+            {"nome": "João"},
+            {"nome": "Pedro"},
+            {"nome": "Ana"}
+        ]
+    }
+]
